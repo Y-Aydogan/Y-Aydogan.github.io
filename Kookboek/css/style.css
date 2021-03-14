@@ -1,0 +1,60 @@
+.nav{
+	margin-top: 50px;
+}
+
+.navbar{
+	background-color:  #f1c40f ;
+}
+
+.jumbotron{
+    background-image: url("../foto/Logo.png");
+    background-size: cover;
+    background-position-y: center;
+}
+
+.intro{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-right: 50px;
+	margin-left: 50px;
+    color: rgb(0, 0, 0);
+}
+
+.container{
+	margin-top: -30px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 30px;
+	color: rgb(0, 0, 0);
+}
+
+
+hr { 
+    border: none; 
+    background: #000000; 
+    margin-top: 50px;
+    margin-bottom: 50px; 
+} 
+
+.C2{
+	margin-top: 50px;
+}
+
+.kaart{
+	color: black;
+}
+
+
+.kopie{
+	clear: both;
+	padding: 10px;
+	background-color: #636363;
+	color: #66CCFF;
+	text-align: center;
+	margin-left:  -15px;
+	margin-right: -15px;
+}
+
+.kopie a{
+	color: #66CCFF;
+}
